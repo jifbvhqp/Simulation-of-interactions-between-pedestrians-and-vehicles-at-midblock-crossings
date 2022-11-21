@@ -16,8 +16,8 @@ https://drive.google.com/file/d/1bf-fyzsFmalOnIjyDGk_RyJ6o92Wt_ym/view?usp=share
     1. 行人偏向往較寬敞的車縫移動 https://www.youtube.com/watch?v=AhqmtyIU5vo
     2. 行人偏向往離他較近的車縫移動 https://www.youtube.com/watch?v=7suVBE_vCDI
     3. 行人偏向往正在成長的車縫移動 https://www.youtube.com/watch?v=8fE66Sr2F_U
-    4. 行人偏向往移動方向相同的車縫群聚移動 https://www.youtube.com/watch?v=MMjtTvvWKVA
-    5. 行人偏向往較往其他行人較少的車縫移動 https://www.youtube.com/watch?v=kBIRI2C_jTk
+    4. 行人偏向往行人流向較順暢的車縫移動 https://www.youtube.com/watch?v=MMjtTvvWKVA
+    5. 行人偏向往其他行人較少(較空)的車縫移動 https://www.youtube.com/watch?v=kBIRI2C_jTk
     
 ## 口試簡報:
 https://docs.google.com/presentation/d/19LrpqygApTEtPSxt8VePFuzmMxURK7u5/edit?usp=share_link&ouid=104081438213918509325&rtpof=true&sd=true
