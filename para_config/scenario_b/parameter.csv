@@ -1,0 +1,2 @@
+veh_arrival_rate,ped_arrival_rate,total_frame,min_ped_speed,max_ped_speed,min_veh_desire_speed,max_veh_desire_speed,w1,w2,w3,w4,w5
+5000,5000,1000,1.1,1.2,3,4,0.0,1.0,0.0,0.0,0.0
