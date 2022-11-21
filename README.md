@@ -18,3 +18,6 @@ https://drive.google.com/file/d/1bf-fyzsFmalOnIjyDGk_RyJ6o92Wt_ym/view?usp=share
     3. 行人偏向往正在成長的車縫移動 https://www.youtube.com/watch?v=8fE66Sr2F_U
     4. 行人偏向往移動方向相同的車縫群聚移動 https://www.youtube.com/watch?v=MMjtTvvWKVA
     5. 行人偏向往較往其他行人較少的車縫移動 https://www.youtube.com/watch?v=kBIRI2C_jTk
+    
+## 口試簡報:
+https://docs.google.com/presentation/d/19LrpqygApTEtPSxt8VePFuzmMxURK7u5/edit?usp=share_link&ouid=104081438213918509325&rtpof=true&sd=true
