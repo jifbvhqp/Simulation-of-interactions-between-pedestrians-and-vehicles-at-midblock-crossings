@@ -13,5 +13,8 @@ https://drive.google.com/file/d/1bf-fyzsFmalOnIjyDGk_RyJ6o92Wt_ym/view?usp=share
     4. 彎道 https://www.youtube.com/watch?v=fogdDFNxiAU
     
 2. 不同權重組合下行人的移動行為:
-      
-
+    1. 行人偏向往較寬敞的車縫移動 https://www.youtube.com/watch?v=AhqmtyIU5vo
+    2. 行人偏向往離他較近的車縫移動 https://www.youtube.com/watch?v=7suVBE_vCDI
+    3. 行人偏向往正在成長的車縫移動 https://www.youtube.com/watch?v=8fE66Sr2F_U
+    4. 行人偏向往移動方向相同的車縫群聚移動 https://www.youtube.com/watch?v=MMjtTvvWKVA
+    5. 行人偏向往較往其他行人較少的車縫移動 https://www.youtube.com/watch?v=kBIRI2C_jTk
