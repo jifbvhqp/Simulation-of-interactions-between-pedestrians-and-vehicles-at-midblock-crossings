@@ -6,13 +6,13 @@
 https://drive.google.com/file/d/1bf-fyzsFmalOnIjyDGk_RyJ6o92Wt_ym/view?usp=share_link
 
 ## Demo Videos:
-1. 應用場景 time step = (1/30) second, FPS = 30, Resolution = 1280 x 720:
+1. 應用場景 time step = (1/30) second, FPS = 30:
     1. 塞車 https://www.youtube.com/watch?v=LZaUY5JHa-k
     2. 逃生 https://www.youtube.com/watch?v=ao1J6ZqDLDU
     3. 違停 https://www.youtube.com/watch?v=iewIjPVY5-o
     4. 彎道 https://www.youtube.com/watch?v=fogdDFNxiAU
     
-2. 不同權重組合下行人的移動行為 time step = (1/10) second, FPS = 10, Resolution = 800 x 600:
+2. 不同權重組合下行人的移動行為 time step = (1/10) second, FPS = 10:
     1. 行人偏向往較寬敞的車縫移動 https://www.youtube.com/watch?v=AhqmtyIU5vo
     2. 行人偏向往離他較近的車縫移動 https://www.youtube.com/watch?v=7suVBE_vCDI
     3. 行人偏向往正在成長的車縫移動 https://www.youtube.com/watch?v=8fE66Sr2F_U
