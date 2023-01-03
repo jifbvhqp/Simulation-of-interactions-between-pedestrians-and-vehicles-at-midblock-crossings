@@ -107,6 +107,28 @@ save_simulate_image:是否將動畫存成多張圖片檔，為True會將動畫�
 設定好參數後，開啟Carla server(開啟方法在RunCode scetion之中，務必開啟carla server)，並在x64 cmd prompt cd到carla/PythonAPI/ThesisCode中，輸入執行:
 
     scenario_anim.py
+    
+![image](https://user-images.githubusercontent.com/49235533/210379168-6c4df980-6cb8-42ef-8830-2c0ee2be588d.png)
+
+## 動畫的製作
+請先安裝ffmpeg，安裝後請設定好環境變數<br>
+●	官網網頁 : http://ffmpeg.org/ <br>
+
+進入動畫每張圖所儲存的路徑，開啟cmd，或是開啟cmd後cd進入動畫每張圖所儲存的路徑。
+![image](https://user-images.githubusercontent.com/49235533/210379323-6b7e6e02-6ac5-4ade-aac9-938bb0aef730.png)
+
+輸入並且執行 : 
+
+    ffmpeg -framerate 你要的fps -start_number 要從哪張開始(整數) -i %d.png -c:v libx264 -vf  scale='w=1280:h=720'  -pix_fmt yuv420p 檔名.mp4
+    
+![image](https://user-images.githubusercontent.com/49235533/210379483-4b7307cb-76c9-45b4-81ee-ceaa3e5b3bed.png)
+
+跑完後，往下拉可以看到生成的影片。
+
+![image](https://user-images.githubusercontent.com/49235533/210379569-f7da3bab-0fe4-4133-b997-6826b22dedbe.png)
+
+
+
 
 
 
