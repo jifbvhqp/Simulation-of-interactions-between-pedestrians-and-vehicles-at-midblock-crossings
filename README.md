@@ -5,6 +5,11 @@
 ## Install & Build Carla
 1. 請先安裝Carla Windows Unreal Editor版本0.9.12，並且跟著官網的指示安裝需要的軟體，並建置完成。<br>
     ●	Carla官網網頁:	https://carla.readthedocs.io/en/latest/start_quickstart/#carla-versions-prior-to-0912
+    
+2. Run Code  
+    將ThesisCode.zip內的資料夾解壓縮到路徑 carla/PythonAPI底下。
+    ![image](https://user-images.githubusercontent.com/49235533/210377368-adf9632e-7ce8-4a69-b015-0c2c2b0d3c2c.png)
+
 
 
 
