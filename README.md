@@ -2,7 +2,7 @@
 
 碩士論文 在中間塊行人穿越道行人與車輛的模擬<br>
 
-![My project-1](https://user-images.githubusercontent.com/49235533/203002209-08449cb9-a7e7-4624-af6e-e7585d5ddd6e.png)
+![4](https://user-images.githubusercontent.com/49235533/210380820-69aaf60e-9dd0-4dc7-9800-bcb2aebb8d5b.png)
 
 ## Install & Build Carla
 1. 請先安裝Carla Windows Unreal Editor版本0.9.12，並且跟著官網的指示安裝需要的軟體，並建置完成。<br>
