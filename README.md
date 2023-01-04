@@ -80,6 +80,8 @@
 在carla server是開啟的情況下(務必開啟carla server)，輸入python update，他會根據剛剛設定的參數去跑模擬
 ![image](https://user-images.githubusercontent.com/49235533/210378460-b9b5ca5c-2a13-442a-a1c0-e0d7c9bbb4eb.png)
 
+    python update.py
+
 執行python update前的carla server(以scenario_f為例)
 ![image](https://user-images.githubusercontent.com/49235533/210378489-fde84eb6-47cc-42df-ac68-4e76806289fb.png)
 
@@ -108,7 +110,7 @@ no_render_mode:是否開啟no_render_mode，為True時則Carla再回放動畫時
 save_simulate_image:是否將動畫存成多張圖片檔，為True會將動畫以每一張圖片的形式存入D://scenario_…內。
 設定好參數後，開啟Carla server(開啟方法在RunCode scetion之中，務必開啟carla server)，並在x64 cmd prompt cd到carla/PythonAPI/ThesisCode中，輸入執行:
 
-    scenario_anim.py
+    python scenario_anim.py
     
 ![image](https://user-images.githubusercontent.com/49235533/210379168-6c4df980-6cb8-42ef-8830-2c0ee2be588d.png)
 
