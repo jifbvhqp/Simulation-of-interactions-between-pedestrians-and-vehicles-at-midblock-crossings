@@ -5,8 +5,8 @@
 ![4](https://user-images.githubusercontent.com/49235533/210380820-69aaf60e-9dd0-4dc7-9800-bcb2aebb8d5b.png)
 
 ## Install & Build Carla
-1. 請先安裝Carla Windows Unreal Editor版本0.9.12，並且跟著官網的指示安裝需要的軟體，並建置完成。<br>
-    ●	Carla官網網頁:	https://carla.readthedocs.io/en/latest/start_quickstart/#carla-versions-prior-to-0912
+請先安裝Carla Windows Unreal Editor版本0.9.12，並且跟著官網的指示安裝需要的軟體，並建置完成。<br>
+● Carla官網網頁:	https://carla.readthedocs.io/en/latest/start_quickstart/#carla-versions-prior-to-0912
     
 ## Run Code  
  將ThesisCode.zip內的資料夾解壓縮到路徑 carla/PythonAPI底下。
@@ -116,7 +116,7 @@ save_simulate_image:是否將動畫存成多張圖片檔，為True會將動畫�
 
 ## 動畫的製作
 請先安裝ffmpeg，安裝後請設定好環境變數<br>
-●	官網網頁 : http://ffmpeg.org/ <br>
+● 官網網頁 : http://ffmpeg.org/ <br>
 
 進入動畫每張圖所儲存的路徑，開啟cmd，或是開啟cmd後cd進入動畫每張圖所儲存的路徑。
 ![image](https://user-images.githubusercontent.com/49235533/210379323-6b7e6e02-6ac5-4ade-aac9-938bb0aef730.png)
