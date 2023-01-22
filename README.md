@@ -133,7 +133,7 @@ save_simulate_image:是否將動畫存成多張圖片檔，為True會將動畫�
 
 
 ## 碩士論文連結:
-https://drive.google.com/file/d/1bf-fyzsFmalOnIjyDGk_RyJ6o92Wt_ym/view?usp=share_link
+https://drive.google.com/file/d/18I9jf5T8fXtxfdAsIO1wi2Ss038o23e2/view?usp=drivesdk
 
 ## Demo Videos:
 1. 應用場景 time step = (1/30) second, FPS = 30:
