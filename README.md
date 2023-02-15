@@ -77,7 +77,7 @@
 設定好參數之後，開啟x64 Native Tools Command Prompt for VS 2019(以下簡稱x64 cmd prompt)，cd將路徑移動到ThesisCode內。
 ![image](https://user-images.githubusercontent.com/49235533/210378439-7dd6e546-9060-4ed0-9280-29794950a05c.png)
 
-在carla server是開啟的情況下(務必開啟carla server)，輸入python update，他會根據剛剛設定的參數去跑模擬
+在carla server是開啟的情況下(務必開啟carla server)，輸入python update.py，他會根據剛剛設定的參數去跑模擬
 ![image](https://user-images.githubusercontent.com/49235533/210378460-b9b5ca5c-2a13-442a-a1c0-e0d7c9bbb4eb.png)
 
     python update.py
