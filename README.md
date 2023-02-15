@@ -92,7 +92,7 @@
 
 ## 動畫的回放和將動畫存成多張圖片
 
-每一次模擬跑完後，會將該次模擬的記錄檔存在對應的資料夾，跑完模擬系統會將檔案存在資料夾，資料夾檔名會以流水號往下命名。如我剛剛跑完了一次scenario_f的模擬，跑完後carla/PythonAPI/ThesisCode/scenario_f內會出現該次模擬的記錄檔。記錄檔是一個資料夾，資料夾名稱會以流水號來命名。
+每一次模擬跑完後，會將該次模擬的記錄檔存在對應的資料夾，跑完模擬系統會將檔案存在資料夾，資料夾檔名會以流水號往下命名。如我剛剛跑完了一次scenario_f的模擬，跑完後carla/PythonAPI/ThesisCode/scenario_f內會出現該次模擬的記錄檔。記錄檔為一個csv檔案，會存在一個資料夾內，資料夾名稱會以流水號來命名。
 ![image](https://user-images.githubusercontent.com/49235533/210378604-18415e1a-9327-47ba-8425-68555a1dc264.png)
 
 此時進入到路徑PythonAPI/ThesisCode/save_image_para
