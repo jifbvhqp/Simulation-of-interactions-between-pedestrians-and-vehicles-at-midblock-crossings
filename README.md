@@ -1,6 +1,6 @@
 # Simulation-of-interactions-between-pedestrians-and-vehicles-at-midblock-crossings
 
-碩士論文 在中間塊行人穿越道行人與車輛的模擬<br>
+碩士論文 在中間塊行人穿越道的行人與車輛互動的模擬<br>
 
 ![4](https://user-images.githubusercontent.com/49235533/210380820-69aaf60e-9dd0-4dc7-9800-bcb2aebb8d5b.png)
 
