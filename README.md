@@ -9,7 +9,7 @@
 ● Carla官網網頁:	https://carla.readthedocs.io/en/latest/start_quickstart/#carla-versions-prior-to-0912
     
 ## Run Code  
- 將ThesisCode.zip內的資料夾解壓縮到路徑 carla/PythonAPI底下。
+ 將ThesisCode.zip內的資料夾解壓縮到路徑 carla/PythonAPI底下或是將Repo clone下來。
  ![image](https://user-images.githubusercontent.com/49235533/210377368-adf9632e-7ce8-4a69-b015-0c2c2b0d3c2c.png)
  
  開啟CarlaUE4
